@@ -229,7 +229,15 @@ font-size: 65px;
         font-size: 18px;
     }
     
-    
+.action-btn{
+    width: 250px
+}
+
+.action-btn:hover { 
+
+    width: 280px;
+
+}
 
 }
 
@@ -326,6 +334,17 @@ font-size: 65px;
 
     .hero-heading {
         font-size: 30px;
+        }
+
+        .action-btn{
+            width: 80%;
+            font-size: 12px;
+        }
+        
+        .action-btn:hover { 
+        
+            width: 90%;
+        
         }
 
 }
